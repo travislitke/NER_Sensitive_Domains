@@ -1,0 +1,16 @@
+{
+'distilbert-distilbert-base-cased':{
+	'synthetic': {'f1': 0.9667, 'accuracy': 0.9936},
+	'gold': {'f1': 0.4182, 'accuracy': 0.9014}
+	}, 
+
+'google-bert-bert-base-cased':{
+	'synthetic': {'f1': 0.9807, 'accuracy': 0.9979},
+	'gold': {'f1': 0.2727, 'accuracy': 0.8678}
+	}, 
+	
+'eventdata-utd-conflibert-named-entity-recognition':{
+	'synthetic': {'f1': 0.9834, 'accuracy': 0.9936}, 
+	'gold': {'f1': 0.4685, 'accuracy': 0.8774}
+	}
+}

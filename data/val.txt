@@ -1,0 +1,14 @@
+The O
+3rd B-ORG_UNIT
+Mechanized I-ORG_UNIT
+Brigade I-ORG_UNIT
+deployed O
+to O
+Jewel B-LOCATION
+Coast I-LOCATION
+. O
+
+T-90 B-PLATFORM
+tanks I-PLATFORM
+arrived O
+...
