@@ -9,6 +9,6 @@ All experiments use Bert models and tokenizers to perform token classification.
 
 All code is located in the root of the project file. 
 
-All data used in this project is located in ./docs
+All data used in this project is located in ./data
 
 All results discovered in this project are located in ./results
